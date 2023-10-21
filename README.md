@@ -1,3 +1,6 @@
+
+![Captura web_21-10-2023_112641_localhost](https://github.com/Agustinhaag/Clima_React-Version/assets/122823252/d656be5b-dc6c-4464-af60-23a964db5986)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
